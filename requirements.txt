@@ -1,9 +1,10 @@
 streamlit
 PyPDF2
 langchain==0.1.16
-langchain-community==0.0.38
 langchain-core==0.1.45
+langchain-community==0.0.38
 langchain-text-splitters
+langchain-experimental
 langchain-google-genai
 langchain-huggingface
 faiss-cpu
