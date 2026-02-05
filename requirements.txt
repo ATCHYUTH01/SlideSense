@@ -1,12 +1,15 @@
-streamlit
+streamlit>=1.31.0
 PyPDF2
+
 langchain==0.1.16
 langchain-core==0.1.45
 langchain-community==0.0.38
 langchain-text-splitters
 langchain-experimental
+
 langchain-google-genai
 langchain-huggingface
+
 faiss-cpu
 sentence-transformers
 python-dotenv
